@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jsketch xmlns="https://nafe.es/jsketch/schema">
+<shape type="line_tool">
+<coordinates x="655" y="155"/>
+<size height="577" width="1025"/>
+<fill color="-4056997"/>
+<stroke width="5.0"/>
+</shape>
+<shape type="circle_tool">
+<coordinates x="711" y="187"/>
+<size height="310" width="392"/>
+<fill color="-4520"/>
+<stroke width="5.0"/>
+</shape>
+<shape type="rectangle_tool">
+<coordinates x="276" y="234"/>
+<size height="397" width="421"/>
+<fill color="-15906911"/>
+<stroke width="5.0"/>
+</shape>
+<shape type="rectangle_tool">
+<coordinates x="172" y="151"/>
+<size height="195" width="259"/>
+<fill color="-4776932"/>
+<stroke width="5.0"/>
+</shape>
+<shape type="rectangle_tool">
+<coordinates x="263" y="202"/>
+<size height="0" width="0"/>
+<fill color="-4520"/>
+<stroke width="5.0"/>
+</shape>
+</jsketch>
